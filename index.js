@@ -61,6 +61,10 @@ const loadAdds =()=>{
   console.log('Adss loaded');
 }
 
+const affiliateRedirec = () =>{
+  //resolver el bug
+}
+
 //comentario test
 
 //cambio 1
